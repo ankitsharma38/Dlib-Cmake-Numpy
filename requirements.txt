@@ -1,5 +1,4 @@
 
-C:\\Users\\username\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages
 
 click==8.1.8
 colorama==0.4.6
