@@ -31,7 +31,7 @@ After performing the downgrade, the face recognition system worked correctly.
 <h4 align="center"> 📩 Get in touch: </h4>
 
 ```sh
-<a href="mailto:ankitsharma7805@gmail.com">ankitsharma7805@gmail.com</a>
+ankitsharma7805@gmail.com
 ```
 
 ## Additional Notes
